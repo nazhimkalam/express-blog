@@ -1,7 +1,6 @@
 # Building a Blog using MongoDB, Express and Node JS
  
-## Install the below dependencies for this to run,
-## Open the VS terminal and install the following dependencies 
+## The following dependencies are installed 
 
 	npm init
 	npm i express mongoose ejs
@@ -16,5 +15,5 @@
 ### 1. Open the VS terminal and enter
 	npm run start
 
-### 2. Open another cmd (can be an external one as well) and enter
+### 2. Open cmd and enter
 	mongod
