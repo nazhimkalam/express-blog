@@ -1,4 +1,4 @@
-# Building a Blog using MongoDB, Express and Node JS
+# Building a Blog using MongoDB, Express and Node JS ✔
  
 ## The following dependencies are installed 
 
